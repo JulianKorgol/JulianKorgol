@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian Korgol</h1>
-<h3 align="center">A passionate Ethical Hacker from Poland</h3>
+<h3 align="center">A passionate Ethical Hacker from Poland (uncertified)</h3>
 
 - 📝 I regularly write articles on [https://juliankorgol.com/blog](https://juliankorgol.com/blog)
 

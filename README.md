@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian Korgol</h1>
 <h3 align="center">A passionate Ethical Hacker from Poland (uncertified)</h3>
 
-- 📝 I regularly write articles on [https://juliankorgol.com/blog](https://juliankorgol.com/blog)
+- 📝 I sometimes write articles on [https://juliankorgol.com/blog](https://juliankorgol.com/blog)
 
 - 📫 How to reach me **kontakt@juliankorgol.com**
 

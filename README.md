@@ -26,8 +26,8 @@
 
 <p align="left">
 <img align="center" src="https://img.shields.io/twitter/follow/JulianKorgol?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julian-korgol/" alt="juliankorgol" />
-<img align="center" src="https://img.shields.io/twitter/follow/JulianKorgol?style=flat-square" alt="juliankorgol" />
 <img align="center" src="https://img.shields.io/github/followers/JulianKorgol?label=follow&style=social" alt="juliankorgol" />
 </p>
+<img align="center" src="https://img.shields.io/twitter/follow/JulianKorgol?style=flat-square&logoColor=white" alt="juliankorgol" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JulianKorgol&theme=dark&date_format=j%20M%5B%20Y%5D)]

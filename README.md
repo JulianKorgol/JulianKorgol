@@ -27,7 +27,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/julian-korgol/" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/JulianKorgol?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julian-korgol/" alt="juliankorgol" /></a>
 <a href="https://github.com/JulianKorgol" target="blank"><img align="center" src="https://img.shields.io/github/followers/JulianKorgol?label=follow&style=social&link=https://github.com/JulianKorgol" alt="juliankorgol" /></a>
-</p>
 <a href="https://twitter.com/JulianKorgol" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/JulianKorgol?style=flat-square&logoColor=white&logo=Twitter&link=https://twitter.com/JulianKorgol" alt="juliankorgol" /></a>
+</p>
 
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=JulianKorgol&theme=dark&date_format=j%20M%5B%20Y%5D)]
+</div>

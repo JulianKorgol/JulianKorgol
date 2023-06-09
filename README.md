@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Julian Korgol</h1>
 <h3 align="center">A passionate backend developer and ethical hacker from Poland.</h3>
 
-- 🔭 I’m currently working on [Events App](https://github.com/JulianKorgol/events-app)
+- 🔭 I’m currently working on [Core2Goal](https://core2goal.com/)
 
-- 🌱 I’m currently learning **OpenAI**
+- 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JulianKorgol?tab=repositories](https://github.com/JulianKorgol?tab=repositories)
+- 👨‍💻 All of my public projects are available at [https://github.com/JulianKorgol?tab=repositories](https://github.com/JulianKorgol?tab=repositories)
 
-- 📝 I regularly write articles on [https://juliankorgol.com/](https://juliankorgol.com/)
+- 📝 I regularly write articles on [https://core2goal.com/blog](https://core2goal.com/blog)
 
 - 💬 Ask me about **Python, Django, SQL, Linux, Docker, AWS, Linode**
 
-- 📫 How to reach me **kontakt@juliankorgol.com**
+- 📫 How to reach me **julian@core2goal.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

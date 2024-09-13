@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://core2goal.com/blog](https://core2goal.com/blog)
 
-- 📫 How to reach me **julian@core2goal.com**
+- 📫 How to reach me **julian.korgol@core2goal.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
